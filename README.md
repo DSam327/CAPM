@@ -11,4 +11,5 @@ Uses yfinance library for financical data
 For Google (GOOG) the calculated return and sharpe ratio are
 
 CAPM Expected Return 0.1135857343325074
+
 Sharpe 0.042579035789864765
